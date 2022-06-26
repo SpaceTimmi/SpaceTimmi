@@ -1,18 +1,18 @@
 ### Hi there, My name is Timi Ombe. I am a Software Engineer.👋
 
-- 🔭 I’m currently working on the Algorithm and Data Structures, and learning to build full-stack web apps.
+- 🔭 I’m currently working on the Algorithm and Data Structures, and learning how to build full-stack web apps.
 - 🌱 I’m currently learning Computer Science through the [Open Source Society University](https://github.com/ossu/computer-science)
 - 👯 I’m looking to collaborate on Software Engineering and Cloud Computing projects.
 
 ### Connect with me on: 
 
-[<img align="left" alt="uchiharon | LinkedIn" width="30px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin]
-<a href="mailto:emmanarutops2@gmail.com"><img align="left" alt="mariabarkouzou | GMail" width="30px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />
-[<img align="left" alt="uchiharon | twitter" width="30px"
+[<img align="left" alt="LinkedIN | LinkedIn" width="30px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin]
+<a href="mailto:timmyombe@gmail.com"><img align="left" alt="mariabarkouzou | GMail" width="30px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />
+[<img align="left" alt="SpaceTimmi | twitter" width="30px"
 src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
-[<img align="left" alt="uchiharon | github" width="30px"
+[<img align="left" alt="SpaceTimmi | github" width="30px"
 src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />][github]
-[<img align="left" alt="uchiharon | medium" width="30px"
+[<img align="left" alt="Timmyombe@ | medium" width="30px"
 src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][medium]
 
   <br/>
@@ -60,10 +60,10 @@ src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][medium]
   
   
   
-[linkedin]: https://www.linkedin.com/in/emmanuel-ikpesu-393708132/
-[github]: https://github.com/uchiharon
-[twitter]: https://twitter.com/IkpesuE
-[medium]: https://medium.com/@emmanarutops2
+[linkedin]: https://www.linkedin.com/in/timi-ombe-6174b8232/
+[github]: https://github.com/SpaceTimmi
+[twitter]: https://twitter.com/SpaceTimmi
+[medium]: https://medium.com/@timmyombe
 
 
 <!--
