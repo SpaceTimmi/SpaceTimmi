@@ -33,6 +33,7 @@ src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][medium]
 [<img align="left" alt="Docker" width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/>][github]
 [<img align="left" alt="SQLite" width="40px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>][github]
 [<img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>][github]
+[<img align="left" alt="Numpy" width="40px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"/>][github]
   
     
 <br/>
