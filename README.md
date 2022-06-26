@@ -27,36 +27,21 @@ src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][medium]
 [<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>][github]
 [<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
 [<img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>][github]
-[<img align="left" alt="AWS" width="40px"  src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"/>][github]
-[<img align="left" alt="Canva" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/canva/canva-original.svg"/>][github]
-[<img align="left" alt="Sass" width="40px" src="https://camo.githubusercontent.com/3a61a49321fba37513904864aee93be1873b05f2cb84b9c13a5dfbb534ac17fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f736173732e737667"/>][github]
-[<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>][github]
-[<img align="left" alt="Tailwind" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tailwindcss/tailwindcss-plain.svg"/>][github]
-[<img align="left" alt="Material UI" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/materialui/materialui-plain.svg"/>][github]
-[<img align="left" alt="Sanity" width="40px" src="https://iconape.com/wp-content/files/hm/371468/svg/371468.svg"/>][github]
-[<img align="left" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" width="40px"/>][github]
-[<img align="left" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain.svg"/>][github]
-     
+[<img align="left" alt="AWS Lambda" width="40px"  src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"/>][github]
+[<img align="left" alt="Ruby" width="40px" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"/>][github]
+ [<img align="left" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" width="40px"/>][github]
+[<img align="left" alt="Docker" width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/>][github]
+[<img align="left" alt="SQLite" width="40px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>][github]
+[<img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>][github]
+  
+    
 <br/>
 <br/>
 <br/>
 
-  
-  
 
-  👩‍💻 Python
-  📈 PowerBI
-  ⚛ SQL
-  💻 Git
-
-
-
-
-
-  
-  
-  
-  
+    
+ 
   
   
   
