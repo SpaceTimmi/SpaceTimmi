@@ -22,19 +22,27 @@ src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][medium]
 
 
   
-
+#### Programming and Markup Languages
 [<img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>][github]
-[<img align="left" alt="AWS" width="40px"  src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"/>][github]
 [<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
-[<img align='left' alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>][github]
+[<img align="left" alt="Ruby" width="40px" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"/>][github]
 [<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>][github]
 [<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>][github]
-[<img align="left" alt="Ruby" width="40px" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"/>][github]
- [<img align="left" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" width="40px"/>][github]
+<br/> 
+#### Frameworks and libraries
+[<img align='left' alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>][github]
+[<img align="left" alt="Numpy" width="40px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"/>][github]
+<br/>
+#### Cloud and Virtualization
+[<img align="left" alt="AWS" width="40px"  src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"/>][github]
 [<img align="left" alt="Docker" width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/>][github]
+<br/>
+#### Tools and Productivity
+<br/>
+[<img align="left" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" width="40px"/>][github]
 [<img align="left" alt="SQLite" width="40px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>][github]
 [<img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>][github]
-[<img align="left" alt="Numpy" width="40px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"/>][github]
+
   
     
 <br/>
