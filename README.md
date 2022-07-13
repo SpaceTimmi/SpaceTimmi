@@ -1,6 +1,6 @@
 ### Hi there, My name is Timi Ombe.👋
 
-- 🌱 I’m currently learning about Software Engineering and Computer Science through the [Open Source Society University](https://github.com/ossu/computer-science) and on [App Academy](https://my.appacademy.io)
+- 🌱 I’m currently learning about Computer Science and Software Engineering through the [Open Source Society University](https://github.com/ossu/computer-science) and on [App Academy](https://my.appacademy.io)
 - 👯 I’m looking to collaborate on Software Engineering and Cloud Computing projects.
 
 ### Connect with me on: 
