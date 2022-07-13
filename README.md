@@ -1,6 +1,5 @@
 ### Hi there, My name is Timi Ombe. I am a prospective Software Engineer.👋
 
-- 🔭 I’m currently working on the Algorithm and Data Structures, and learning how to build full-stack web apps.
 - 🌱 I’m currently learning about Software Engineering and Computer Science through the [Open Source Society University](https://github.com/ossu/computer-science) and on [App Academy](https://my.appacademy.io)
 - 👯 I’m looking to collaborate on Software Engineering and Cloud Computing projects.
 
