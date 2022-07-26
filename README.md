@@ -20,6 +20,7 @@ src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />][github]
 
   
 #### Programming and Markup Languages
+[<img align="left" alt="Golang" width="40px" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"/>][github]
 [<img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>][github]
 [<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
 [<img align="left" alt="Ruby" width="40px" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"/>][github]
