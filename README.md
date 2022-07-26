@@ -45,14 +45,6 @@ src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />][github]
 <br/>
 <br/>
 
- ### 📜 Certificates
-  
-- [DevOps With AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/KGBS3T24MU7R)
-- [Software Engineering Virtual Experience](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_ZasDhfRLTK4bpmbC9_1654976966382_completion_certificate.pdf)
-
-
-    
- 
   
   
   
