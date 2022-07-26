@@ -1,6 +1,5 @@
 ### Hi there, My name is Timi Ombe.👋
 
-- 🌱 I’m currently learning _Computer Science_ and _Software Engineering_ through the [Open Source Society University](https://github.com/ossu/computer-science) and on [App Academy](https://my.appacademy.io)
 - 👯 I’m looking to collaborate on Software Engineering and Cloud Computing projects.
 
 ### Connect with me on: 
@@ -11,8 +10,6 @@
 src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
 [<img align="left" alt="SpaceTimmi | github" width="30px"
 src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />][github]
-[<img align="left" alt="Timmyombe@ | medium" width="30px"
-src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][medium]
 
   <br/>
 
