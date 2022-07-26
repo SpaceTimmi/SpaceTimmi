@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timi Ombe</h1>
 <h3 align="center">SWE from Nigeria</h3>
 
-- 🔭 I’m currently **Open Sourcing**
+**Open Sourcing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
