@@ -1,13 +1,79 @@
-<h1 align="center">Hi 👋, I'm Timi Ombe</h1>
-<h3 align="center">Software Engineer</h3>
+### Hi there, My name is Timi Ombe.👋
+
+- 🌱 I’m currently learning _Computer Science_ and _Web development_ through the [Open Source Society University](https://github.com/ossu/computer-science) and on [App Academy](https://my.appacademy.io) respectively.
+- 👯 I’m looking to collaborate on Software Engineering and Cloud Computing projects.
+
+### Connect with me on: 
+
+[<img align="left" alt="LinkedIN | LinkedIn" width="30px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin]
+<a href="mailto:timmyombe@gmail.com"><img align="left" alt="mariabarkouzou | GMail" width="30px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />
+[<img align="left" alt="SpaceTimmi | twitter" width="30px"
+src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
+[<img align="left" alt="SpaceTimmi | github" width="30px"
+src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />][github]
+[<img align="left" alt="Timmyombe@ | medium" width="30px"
+src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][medium]
+
+  <br/>
+
+  
+
+### Skills and Tools:
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/timi-ombe-6174b8232/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SpaceTimmi) 
+  
+#### Programming and Markup Languages
+[<img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>][github]
+[<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
+[<img align="left" alt="Ruby" width="40px" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"/>][github]
+[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>][github]
+[<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>][github]
+<br/>
+#### Frameworks and libraries
+[<img align='left' alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>][github]
+[<img align="left" alt="Numpy" width="40px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"/>][github]
+<br/>
+#### Cloud and Virtualization
+[<img align="left" alt="AWS" width="40px"  src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"/>][github]
+[<img align="left" alt="Docker" width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/>][github]
+<br/>
+#### Tools and Productivity
+[<img align="left" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" width="40px"/>][github]
+[<img align="left" alt="SQLite" width="40px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>][github]
+[<img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>][github]
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=spacetimmi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=spacetimmi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=spacetimmi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
+    
+<br/>
+<br/>
+<br/>
+
+ ### 📜 Certificates
+  
+- [DevOps With AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/KGBS3T24MU7R)
+- [Software Engineering Virtual Experience](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_ZasDhfRLTK4bpmbC9_1654976966382_completion_certificate.pdf)
+
+
+    
+ 
+  
+  
+  
+[linkedin]: https://www.linkedin.com/in/timi-ombe-6174b8232/
+[github]: https://github.com/SpaceTimmi
+[twitter]: https://twitter.com/SpaceTimmi
+[medium]: https://medium.com/@timmyombe
+
+
+<!--
+**SpaceTimmi/SpaceTimmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
