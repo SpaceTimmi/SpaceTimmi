@@ -38,6 +38,7 @@ src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][medium]
 [<img align="left" alt="Docker" width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/>][github]
 <br/>
 #### Tools and Productivity
+[<img align="left" alt="Vim" width="40px" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"/>][github]
 [<img align="left" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" width="40px"/>][github]
 [<img align="left" alt="SQLite" width="40px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>][github]
 [<img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>][github]
