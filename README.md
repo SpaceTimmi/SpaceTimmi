@@ -1,7 +1,8 @@
 ### Hi there, My name is Timi Ombe.👋
 
-- 🌱 I’m currently learning _Computer Science_ and _Web development_ through the [Open Source Society University](https://github.com/ossu/computer-science) and on [App Academy](https://my.appacademy.io) respectively.
-- 👯 I’m looking to collaborate on Software Engineering and Cloud Computing projects.
+- 🌱 I’m currently learning _Computer Science_ through the wonderful [Open Source Society University](https://github.com/ossu/computer-science) curriculum and and _Web development_ through [App Academy](https://my.appacademy.io). I'm interested in pursuing a Msc in Computer Science in the future, hence the interest in _Computer Sciecne_.
+- 👯 I’m looking to collaborate on Web development projects at the moment.
+- 🌱 I'm interested in learning about compliers and operating systems. Would love to be able to build a mini web OS in the future. I like functional programming languages too!
 
 ### Connect with me on: 
 
@@ -11,60 +12,40 @@
 src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />][twitter]
 [<img align="left" alt="SpaceTimmi | github" width="30px"
 src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />][github]
-[<img align="left" alt="Timmyombe@ | medium" width="30px"
-src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />][medium]
-
-  <br/>
-
-  
-
-### Skills and Tools:
-
-
-  
+ <br/>
+ <br/>  
 #### Programming and Markup Languages
 [<img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>][github]
 [<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
-[<img align="left" alt="Ruby" width="40px" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"/>][github]
 [<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>][github]
 [<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>][github]
 <br/>
-#### Frameworks and libraries
+<br/>
+#### Frameworks and Libraries
 [<img align='left' alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>][github]
+[<img align="left" alt="Express" width="40px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"/>][github]
+[<img align="left" alt="MongoDB" width="40px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"/>][github]
+[<img align="left" alt="NodeJs" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"/>][github]
 [<img align="left" alt="Numpy" width="40px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"/>][github]
 <br/>
-#### Cloud and Virtualization
-[<img align="left" alt="AWS" width="40px"  src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"/>][github]
-[<img align="left" alt="Docker" width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/>][github]
 <br/>
-#### Tools and Productivity
-[<img align="left" alt="Vim" width="40px" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"/>][github]
-[<img align="left" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" width="40px"/>][github]
+#### Tools
+[<img align="left" alt="AWS" width="40px"  src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"/>][github]
+[<img align="left" alt="Firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"/>][github]
+[<img align="left" alt="Docker" width="40px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/>][github]
 [<img align="left" alt="SQLite" width="40px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>][github]
 [<img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>][github]
-
-  
-    
+[<img align="left" alt="Vim" width="40px" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"/>][github]
+[<img align="left" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" width="40px"/>][github]
+<br/>  
 <br/>
-<br/>
-<br/>
-
  ### 📜 Certificates
-  
 - [DevOps With AWS](https://www.coursera.org/account/accomplishments/specialization/certificate/KGBS3T24MU7R)
-- [Software Engineering Virtual Experience](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_ZasDhfRLTK4bpmbC9_1654976966382_completion_certificate.pdf)
-
-
-    
- 
-  
-  
+- [Software Engineering Virtual Experience](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_ZasDhfRLTK4bpmbC9_1654976966382_completion_certificate.pdf)  
   
 [linkedin]: https://www.linkedin.com/in/timi-ombe-6174b8232/
 [github]: https://github.com/SpaceTimmi
 [twitter]: https://twitter.com/SpaceTimmi
-[medium]: https://medium.com/@timmyombe
-
 
 <!--
 **SpaceTimmi/SpaceTimmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
