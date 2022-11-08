@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning _Computer Science_ through the wonderful [Open Source Society University](https://github.com/ossu/computer-science) curriculum and and _Web development_ through [App Academy](https://my.appacademy.io). I'm interested in pursuing a Msc in Computer Science in the future, hence the interest in _Computer Science_.
 - 👯 I’m looking to collaborate on Web development projects at the moment.
-- 🌱 I'm interested in learning about compliers and operating systems. Would love to be able to build a mini web OS in the future. I like functional programming languages too!
+- 🌱 I'm interested in learning about compliers and operating systems. I like functional programming languages too!
 
 ### Connect with me on: 
 
