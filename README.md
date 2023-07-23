@@ -1,8 +1,12 @@
-### Hi there, My name is Timi Ombe.👋
+### Hi there, My name is Tim.👋
 
-- 🌱 I’m currently learning _Computer Science_ through the wonderful [Open Source Society University](https://github.com/ossu/computer-science) curriculum and and _Web development_ through [App Academy](https://my.appacademy.io). I'm interested in pursuing a Msc in Computer Science in the future, hence the interest in _Computer Science_.
+- 🌱 I’m currently learning _Computer Science_ through the wonderful [Open Source Society University](https://github.com/ossu/computer-science) curriculum and and _Web development_ through [App Academy](https://my.appacademy.io).
+
+<!--
+ I 'm interested in pursuing a Msc in Computer Science in the future, hence the interest in _Computer Science_.
 - 👯 I’m looking to collaborate on Web development projects at the moment.
 - 🌱 I'm interested in learning about compliers and operating systems. I like functional programming languages too!
+
 
 ### Connect with me on: 
 
@@ -47,7 +51,7 @@ src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />][github]
 [github]: https://github.com/SpaceTimmi
 [twitter]: https://twitter.com/SpaceTimmi
 
-<!--
+
 **SpaceTimmi/SpaceTimmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
